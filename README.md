@@ -1,4 +1,7 @@
-
+## Working on a project:
+- Iner Hasanović
+- Harun Huskić
+- Sara Softić
 
 # Event Scheduler Console App
 
@@ -56,5 +59,7 @@ Each of these versions works the same way for now, but there may be slight diffe
 - Adding functionality for editing and deleting events.
 - Enhancing the display for upcoming events to show them in a calendar view.
 - Implementing cross-platform syncing if I expand this project into a desktop or mobile app.
+
+
    
  
