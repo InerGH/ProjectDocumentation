@@ -60,6 +60,8 @@ Each of these versions works the same way for now, but there may be slight diffe
 - Enhancing the display for upcoming events to show them in a calendar view.
 - Implementing cross-platform syncing if I expand this project into a desktop or mobile app.
 
+## Public link: https://github.com/InerGH/ProjectDocumentation
+
 
    
  
